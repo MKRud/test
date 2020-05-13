@@ -22,5 +22,5 @@ request('https://www.shazam.com/shazam/v3/ru/UA/web/-/tracks/world-chart-world?p
             }
         }
     }
-    return objShazam
+    console.log(objShazam)
 })
